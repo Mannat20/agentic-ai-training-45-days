@@ -102,7 +102,7 @@ List Object
 ↓
 
 Each element stored separately
-![Multi_Value](images/multi_value_in_memory)
+![Multi_Value](images/multi_value_in_memory.jpg)
 
 ---
 
