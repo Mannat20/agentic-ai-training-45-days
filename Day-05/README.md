@@ -3,7 +3,7 @@
 **Training Program:** Agentic AI Training  
 **Organization:** Auribises  
 **Day:** 05  
-**Date:** 02 July 2026
+**Date:** 30 JUNE 2026
 
 ---
 
