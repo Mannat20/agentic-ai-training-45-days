@@ -122,6 +122,8 @@ During recursive execution:
 
 This helps reduce memory usage.
 
+![Recrusion in Memory](images/recrusion.jpg)
+
 ---
 
 # Recursive Problems Covered
