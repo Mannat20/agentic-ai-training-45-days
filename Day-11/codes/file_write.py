@@ -1,0 +1,6 @@
+# file=open('quotes.txt','w')
+file=open('quotes.txt','a')
+quotes=input('enter a quote:')
+file.write(f'{quotes} \n')
+file.close()
+print('Quote added..')
